@@ -22,7 +22,7 @@ body{
 }
 .box{
   width: 500px;
-  background-image: url(1.jpg);
+  background-image: url(../src/assets/1.jpg);
   background-size: 500px;
   background-repeat: no-repeat;
   background-position: center;
